@@ -1,1 +1,8 @@
 This is a readme file, please wait for the project to get underway before downloading it.
+
+--
+
+To commit files to github (after the original one):
+git push origin master
+
+where master is the branch you are pushing
